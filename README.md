@@ -1,3 +1,8 @@
+![react](https://img.shields.io/badge/react-v17.0.2-green)
+![react-dom](https://img.shields.io/badge/react--dom-17.0.2-green)
+![babel](https://img.shields.io/badge/babel-7.13.14-green)
+![webpack](https://img.shields.io/badge/webpack-5.28.0-green)
+
 # OpenHolle Simple React Boilerplate
 This repo is very simple react boilerplate
 
