@@ -4,6 +4,7 @@ This repo is very simple react boilerplate
 ## Setup
 
 You can fork this repo and use how github repo template
+
 Or
 1. Clone this repo, in your place
 ```
