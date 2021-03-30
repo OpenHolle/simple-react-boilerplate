@@ -5,11 +5,10 @@ module.exports = {
     entry: './src/index.js',
     output: {
         path: path.resolve(__dirname, 'build'),
-        filename: 'bundle.js',
-        publicPath: 'build'
+        filename: 'index.js',
     },
     devServer: { contentBase: path.join(__dirname, 'src'), },
-    plugins: [new HtmlWebpackPlugin({ template: 'src/index' })],
+    plugins: [new HtmlWebpackPlugin({ template: 'src/index.html' })],
     module: {
         rules: [
             {
